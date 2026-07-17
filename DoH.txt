@@ -1,1 +1,2 @@
-test
+cnn.com
+www.cnn.com
