@@ -1,2 +1,2 @@
-cnn.com
-www.cnn.com
+ford.com
+www.ford.com
